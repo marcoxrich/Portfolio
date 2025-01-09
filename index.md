@@ -4,7 +4,7 @@ title: Home
 ---
 
 ## About Me
-I’m Marco Richardson, a passionate developer and data enthusiast with a strong background in Management Information Systems** and Computer Science. I specialize in building innovative web applications, analyzing data, and creating meaningful visualizations.
+A passionate developer and data enthusiast with a strong background in Management Information Systems and Computer Science. I specialize in building innovative web applications, analyzing data, and creating meaningful visualizations.
 
 ---
 
