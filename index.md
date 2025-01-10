@@ -26,6 +26,7 @@ A passionate developer and data enthusiast with a strong background in Managemen
 A fitness tracker application to log workouts, visualize progress, and set goals.  
 - **Tech Stack**: HTML, CSS, JavaScript, PHP, SQL
 - **Highlights**: User authentication, interactive log, goal setting.
+  ![Wireframe](/assets/Fitnessappwireframe.jpeg) 
 
 ---
 
