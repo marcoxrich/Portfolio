@@ -33,7 +33,7 @@ A fitness tracker application to log workouts, visualize progress, and set goals
 Analyzed various hospitals using advanced data visualization and clustering techniques.  
 - **Tech Stack**: Tableau Prep, Tableau, Pandas, SPSS  
 - **Highlights**: Data cleaning workflows, k-means clustering, and patient pattern mapping.
-  ![Dashboard](/assets/HealthcareAnalysis.jpeg)
+  ![Dashboard](/assets/HealthcareAnalysisDashboard.jpeg)
   
 ---
 
