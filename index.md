@@ -29,10 +29,10 @@ A fitness tracker application to log workouts, visualize progress, and set goals
 
 ---
 
-## [NFL Injury Analysis 2024](https://github.com/marcoxrich/NFLInjuryAnalysis)
-Analyzed NFL player injuries using advanced data visualization and clustering techniques.  
-- **Tech Stack**: Tableau, Tableau Prep, SPSS  
-- **Highlights**: Data cleaning workflows, k-means clustering, and injury pattern mapping.
+## [Healthcare Analysis](https://github.com/marcoxrich/HealthcareAnalysis)
+Analyzed various hospitals using advanced data visualization and clustering techniques.  
+- **Tech Stack**: Tableau Prep, Tableau, Pandas, SPSS  
+- **Highlights**: Data cleaning workflows, k-means clustering, and patient pattern mapping.
 
 ---
 
