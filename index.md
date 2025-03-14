@@ -16,7 +16,7 @@ A passionate developer and data enthusiast with a strong background in Managemen
 
 ##  Skills
 - **Programming Languages**: Python, JavaScript, HTML, CSS, SQL
-- **Data Tools**: Tableau, Tableau Prep, SPSS, MySQL
+- **Data Tools**: Tableau, Tableau Prep, MySQL
   
 ---
 
@@ -37,9 +37,8 @@ A fitness tracker application to log workouts, visualize progress, and set goals
 ---
 
 ## [Healthcare Analysis](https://github.com/marcoxrich/HealthcareAnalysis)
-Analyzed various hospitals using advanced data visualization and clustering techniques.  
-- **Tech Stack**: Tableau Prep, Tableau, Pandas, SPSS  
-- **Highlights**: Data cleaning workflows, k-means clustering, and patient pattern mapping.
+Analyzed various hospitals using advanced data visualization. 
+- **Tech Stack**: Tableau Prep and Tableau
   ![Dashboard](/assets/HealthcareAnalysisDashboard.jpeg)
   
 ---
