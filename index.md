@@ -24,7 +24,8 @@ A passionate developer and data enthusiast with a strong background in Managemen
 
 ## [Salary Prediction Model](https://github.com/marcoxrich/SalaryPredictionModel)
 A salary prediction model to determine whether a candidate’s requested salary is reasonable based on their position level and experience. 
-- **Tech Stack**: *Python* Libraries included: Pandas, NumPy, Scikit-Learn, Matplotlib 
+- **Tech Stack**:
+- *Python* Libraries included: Pandas, NumPy, Scikit-Learn, Matplotlib 
 ![Graph](/assets/PolyRegression.jpeg)
 
 ## [Fitness Log App](https://github.com/marcoxrich/FitnessApp)
